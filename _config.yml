@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kaizodo42.github.io
+title: M. Saint Louis
+tagline: A log of my existential crises 
+description: Here is my simple log and destination filled with any and all of my complex thoughts, feelings and reflections. 
+paginate: 5
